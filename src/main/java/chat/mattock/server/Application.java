@@ -1,4 +1,4 @@
-package mattock.server;
+package chat.mattock.server;
 
 import io.micronaut.runtime.Micronaut;
 
